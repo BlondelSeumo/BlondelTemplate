@@ -1,0 +1,2 @@
+# BlondelTemplate
+Blondel Static WebsiteTemplate
